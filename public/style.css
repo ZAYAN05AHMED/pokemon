@@ -1,0 +1,359 @@
+body{
+    background-color: black;
+    
+    
+}
+.nav1{
+    background-color: silver;
+    padding: 0px 37px 0px 35px;
+    min-width: 510px;
+}
+.center{
+    background-color: white;
+    min-width: 510px;
+}
+.container{
+    display: inline-block;
+    padding: 0px 7px 0px 7px;
+}
+.gallery{
+    display: inline-block;
+    width: 100px;
+    padding-left: 0px 15px 0px 15px;
+}
+.desc{
+    padding: 5px 0px 0px 5px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#home:hover{
+    color: white;
+    background-color:grey;
+    border-right:1px solid orangered;
+    border-left: 1px solid orangered;
+}
+#pokedex:hover{
+    color: white;
+    background-color:rgb(255, 51, 0);
+    border-right:1px solid orangered;
+    border-left: 1px solid orangered;
+}
+#videogame:hover{
+    color: white;
+    background-color: rgb(255, 115, 0);
+    border-right:1px solid orangered;
+    border-left: 1px solid orangered;
+}
+#cardgame:hover{
+    color: white;
+    background-color: rgb(255, 166, 0);
+    border-right:1px solid orangered;
+    border-left: 1px solid orangered;
+}
+#pokemontv:hover{
+    color: white;
+    background-color: rgb(2, 90, 10);
+    border-right:1px solid orangered;
+    border-left: 1px solid orangered;
+}
+#events:hover{
+    color: white;
+    background-color: rgb(7, 5, 173);
+    border-right:1px solid orangered;
+    border-left: 1px solid orangered;
+}
+#news:hover{
+    color: white;
+    background-color: rgb(2, 11, 92);
+    border-right:1px solid orangered;
+    border-left: 1px solid orangered;
+}
+#home{
+    border-bottom:5px solid gray ;
+    border-right:1px solid lime;
+    border-left: 1px solid lime;
+}
+#pokedex{
+    border-bottom:5px solid  rgb(255, 51, 0); 
+    border-right:1px solid lime;
+    border-left: 1px solid lime;
+}
+#videogame{
+    border-bottom:5px solid rgb(255, 115, 0) ;
+    border-right:1px solid lime;
+    border-left: 1px solid lime;
+}
+#cardgame{
+    border-bottom:5px solid rgb(255, 166, 0) ;
+    border-right:1px solid lime;
+    border-left: 1px solid lime;
+}
+#pokemontv{
+    border-bottom:5px solid rgb(2, 90, 10) ;
+    border-right:1px solid lime;
+    border-left: 1px solid lime;
+}
+#events{
+    border-bottom:5px solid rgb(7, 5, 173) ;
+    border-right:1px solid lime;
+    border-left: 1px solid lime;
+}
+#news{
+    border-bottom:5px solid rgb(2, 11, 92) ;
+    border-right:1px solid lime;
+    border-left: 1px solid lime;
+}
+.up{
+    min-width: 300px;
+}
+.head{
+    margin: 0px 50px 0px 50px;
+    background-color: mediumslateblue;
+    width: 1000px;
+    min-width: 250px;
+    
+    border: 3px dotted red;
+}
+.containers{
+    display: inline-block;
+    min-width: 250px;
+}
+.galleries{
+    display: inline-block;
+    min-width: 300px;
+}
+.description{
+    padding: 0px 0px 0px 10px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300px;
+} 
+div p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+#img1{
+    background-color: rgb(21, 56, 163);
+    color: white;
+    text-align: left;
+    width: 650px;
+    font-size: 32px;
+    padding: 0px 0px 20px 0px;
+}
+#img2{
+    background-color: black;
+    color: white;
+    text-align: left;
+}
+#img3{
+    background-color: blue;
+    color: white;
+}
+#img4{
+    background-color: grey;
+    color: white;
+}
+#img5{
+    background-color: orange;
+    color: white;
+}
+.up{
+    background-color:black;
+    color: white;
+}
+#img1:hover{
+    border: 4px solid rgb(5, 5, 190);
+    border-radius: 4px;
+}
+#img2:hover{
+    border: 4px solid rgb(65, 62, 62);
+    border-radius: 4px;
+}
+#img3:hover{
+    border: 4px solid rgb(116, 116, 236);
+    border-radius: 4px;
+    padding-bottom: 20px;
+}
+#img4:hover{
+    border: 4px solid darkgray;
+    border-radius: 4px;
+    padding-bottom: 20px;
+}
+#img5:hover{
+    border: 4px solid yellow;
+    border-radius: 4px;
+    padding-bottom: 20px;
+}
+.main{
+    display: inline-block;
+    max-width: 1000px;
+    min-width: 250px;
+}
+.images{
+    display: inline-block;
+}
+.des{
+    padding: 10px 0px 20px 10px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 310px;
+    text-align: center;
+    color: white;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    border-right: 1px solid lime;
+}
+.des:hover{
+    border-right: 1px solid rgb(255, 0, 0);
+}
+#one{
+    background-color: black;
+}
+#two{
+    background-color: black;
+}
+#three{
+    background-color: black;
+}
+#four{
+    background-color: black;
+}
+#one:hover{
+    border-bottom: 4px solid plum;
+    border-top: 4px solid plum;
+}
+#two:hover{
+    border-top: 4px solid skyblue;
+    border-bottom: 4px solid skyblue;
+}
+#three:hover{
+    border-top: 4px solid rgb(245, 171, 195);
+    border-bottom: 4px solid rgb(245, 171, 195);
+}
+#four:hover{
+    border-top: 4px solid rgb(9, 139, 190);
+    border-bottom: 4px solid rgb(9, 139, 190);
+}
+.txt{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    text-decoration: none;
+}
+.btn{
+	font-size: 20px;
+	background: black;
+	height: 50px;
+	color: #fff;
+	line-height: 50px;
+	border-radius: 5px;
+	margin-bottom: 20px;
+    text-transform: capitalize;
+    width: 250px;
+    text-align: center;
+    text-decoration: none;
+    border: 2px solid rgb(0, 241, 0);
+}
+.login a{
+	display: block;
+}
+.btn:hover{
+    background-color: gray;
+    color: black;
+    border: 2px solid red;
+}
+.foot{
+    background-color: rgb(61, 59, 59);
+    padding: 0px 0px 30px 30px;
+    border:3px solid  lime ;
+    min-width: 410px;
+}
+.foot:hover{
+    border: 4px solid red;
+}
+div h2{
+    color: black;
+}
+.a{
+    text-decoration: none;
+    
+    list-style: none;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+.a2{
+    text-decoration: none;
+    margin-right: 30px;
+    list-style: none;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+.end{
+    list-style: none;
+    color: whitesmoke;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    min-width: 410px;
+    position: relative;
+    left: 20px;
+}
+.ends{
+    text-align: right;
+    list-style: none;
+    color: whitesmoke;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    position: static;
+    min-width: 410px;
+  
+}
+.cont{
+    padding-top: 10px;
+}
+.gall{
+    padding: 0px 10px 0px 10px;
+}
+.a:hover{
+    color: red;
+}
+.a2:hover{
+    color: red;
+}
+.bo{
+    background-image: url(data:image/jpeg;base64,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);
+}
+.se{
+    position: fixed;
+    top: 240px;
+    left: 10px;
+    background-color: rgb(82, 184, 82);
+    font-size: 24px;
+    line-height: 40px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 30px;
+    text-decoration: none;
+    padding-bottom: 10px;
+    
+}
+div p a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+div p img{
+    padding-top: 20px;
+    padding-left: 1px;
+    
+}
+.se:hover{
+    background-color: green;
+    color: grey;
+}
